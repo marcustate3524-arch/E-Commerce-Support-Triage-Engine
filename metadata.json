@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Support Triage Engine",
+  "description": "Policy-compliant customer support ticket triage, chain-of-thought reasoning audit, and empathetic reply drafting workbench for an online apparel store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
